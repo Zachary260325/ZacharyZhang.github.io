@@ -10,14 +10,18 @@ redirect_from:
 {% include base_path %}
 
 Education
+
 ======
+
 * MPhil in Computer Science, The Chinese University of Hong Kong, expected 2025
   * Advisor: Prof. James Cheng
 * BEng in Computer Science and Artificial Intelligence, The Hong Kong University of Science and Technology, 2021
   * Graduated with First Class Honours
 
 Work experience
+
 ======
+
 * Fall 2025 - Present: Research Assistant
   * The Chinese University of Hong Kong
   * Duties includes: Agentic framework research and development, large language model applications development
@@ -52,4 +56,3 @@ Teaching
   
 Service and leadership
 ====== -->
-
