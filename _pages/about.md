@@ -16,9 +16,9 @@ Computer Science with an extended major in Artificial Intelligence from **HKUST*
 graduated with First Class Honours.
 
 My work centres on **large language model agents** and **machine learning**. I am
-currently writing a paper on **long-horizon agents in educational tasks**. Earlier, as a
-Research Assistant, I worked on agentic retrieval-augmented generation and the agentic
-framework supporting it.
+currently writing a paper on **benchmarking long-horizon agents in educational tasks**.
+Earlier, as a Research Assistant, I worked on agentic retrieval-augmented generation and
+the agentic framework supporting it.
 
 You can find the details on my [CV]({{ base_path }}/cv/), or my code on
 [GitHub](https://github.com/Zachary260325). I am reachable at
