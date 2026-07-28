@@ -15,10 +15,10 @@ the MPhil I spent six months in the same group as a Research Assistant. I hold a
 Computer Science with an extended major in Artificial Intelligence from **HKUST**,
 graduated with First Class Honours.
 
-My work centres on **large language model agents** and **machine learning** — agentic
-retrieval-augmented generation, and applying LLMs to software engineering tasks. Along
-the way I have also worked on 3D avatar generation, and spent summers as a software
-engineer at Huawei and Inspur.
+My work centres on **large language model agents** and **machine learning**. I am
+currently writing a paper on **long-horizon agents in educational tasks**. Earlier, as a
+Research Assistant, I worked on agentic retrieval-augmented generation and the agentic
+framework supporting it.
 
 You can find the details on my [CV]({{ base_path }}/cv/), or my code on
 [GitHub](https://github.com/Zachary260325). I am reachable at
