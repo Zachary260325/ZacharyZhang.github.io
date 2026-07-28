@@ -16,21 +16,21 @@ description              : "Chenyu Zhang's academic portfolio"   # Update this w
 url                      : https://zachary260325.github.io/ZacharyZhang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Zachary260325/ZacharyZhang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Chenyu Zhang"
   pronouns         : "he/him" # example: "she/her"
-  bio              : "Research Assistant @ CUHK"
+  bio              : "MPhil student in CSE @ CUHK. LLM agents, agentic RAG, knowledge management."
   location         : "Shatin, N.T., Hong Kong SAR"
   employer         : "The Chinese University of Hong Kong"
   uri              : # URL
-  email            : "chenyuzhang [at] cuhk.edu.hk"
+  email            : "ZacharyZhang [at] link.cuhk.edu.hk"
 
   # Academic websites
   academia         : # URL
